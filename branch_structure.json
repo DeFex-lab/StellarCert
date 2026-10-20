@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1104-transfer-confirmation-codes-are-returned-to-the",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1104-transfer-confirmation-codes-are-returned-to-the": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1104-transfer-confirmation-codes-are-returned-to-the",
+    "origin"
+  ]
+}
